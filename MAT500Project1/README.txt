@@ -5,6 +5,12 @@ Steps to run project:
 
 To see code:
 
-1. Open "MAT500 Project.sln".
+Open "MAT500 Project.sln".
 
-Update: Included unitypackage in base folder.
+OR
+
+Import unitypackage included in base folder.
+
+OR
+
+Look in Assets/Scripts.
